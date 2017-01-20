@@ -1,0 +1,3 @@
+To Do:
+- Add additional exception handeling 
+- Try to cleanup/make more effiecent/easier to read
